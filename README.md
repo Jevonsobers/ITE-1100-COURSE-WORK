@@ -12,8 +12,8 @@ Reviewed and approved the pull request.
 Merged the changes into the main branch.
 The names of the collaborators involved are:
 Jevon Sobers
-Paul collins
+Paul collins.
 Some key details: 
 Platform used is GitHub
 File used: README.md
-Pull request status: Approved
+Pull request status: Approved.
